@@ -19,9 +19,7 @@ project:
       - concurrently (optional)
   license: "MIT"
   author:
-    name: "Your Name"
-    github: "https://github.com/your-username"
-    email: "your-email@example.com"
+    name: "Param Dodal"
 
 structure:
   root:
@@ -58,7 +56,7 @@ setup:
     steps:
       - step: "Clone the repository"
         commands:
-          - git clone https://github.com/your-username/bookmyshow-clone.git
+          - git clone [https://github.com/Paramdodal/bookmyshow-clone.git
           - cd bookmyshow-clone
       - step: "Setup Backend"
         path: "back-end"
