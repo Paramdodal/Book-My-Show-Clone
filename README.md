@@ -1,6 +1,6 @@
 # 🎬 BookMyShow Clone
 
-A full-stack MERN web application that replicates the core features of BookMyShow, including movie listings, booking, and user authentication.
+A full-stack MERN web application that replicates the core features of BookMyShow, including movie listings, booking.
 
 ## 📚 Project Overview
 
