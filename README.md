@@ -59,7 +59,6 @@ Edit
 
 - ✅ Browse movies, showtimes, and venues  
 - ✅ Book tickets for available shows  
-- ✅ User authentication (sign up / log in)  
 - ✅ RESTful backend API with MongoDB  
 - ✅ Responsive UI built with React  
 
