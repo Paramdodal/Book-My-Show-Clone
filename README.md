@@ -6,7 +6,6 @@ A full-stack MERN web application that replicates the core features of BookMySho
 
 **Name:** BookMyShow Clone  
 **Author:** Param Dodal  
-**License:** MIT
 
 ---
 
