@@ -31,29 +31,6 @@ A full-stack MERN web application that replicates the core features of BookMySho
 
 ---
 
-## 📁 Project Structure
-
-bookmyshow-clone/
-├── README.md
-├── back-end/
-│ ├── dbConnection.js
-│ ├── routes.js
-│ ├── schema.js
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
-└── front-end/
-├── public/
-├── src/
-├── package.json
-├── package-lock.json
-└── .gitignore
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Features
 
