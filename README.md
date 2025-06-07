@@ -84,31 +84,25 @@ git clone https://github.com/Paramdodal/Book-My-Show-Clone.git
 cd Book-My-Show-Clone
 ```
 2. Setup Backend
-bash
-Copy
-Edit
+```bash
 cd back-end
 npm install
+```
 Create a .env file in back-end/:
-
-env
-Copy
-Edit
+```bash
 MONGODB_URI=your_mongodb_connection_string
 PORT=5000
+```
 Run the backend server:
-
-bash
-Copy
-Edit
+```bash
 npm start
+```
 3. Setup Frontend
-bash
-Copy
-Edit
+```bash
 cd ../front-end
 npm install
 npm start
+```
 🌐 Running the App
 Frontend: http://localhost:3000
 
@@ -116,7 +110,7 @@ Backend: http://localhost:5000
 
 🔗 API Endpoints
 Method	Route	Description
-GET	/movies	Get all movies
+GET	  /movies	Get all movies
 POST	/book	Book a show
 POST	/register	User registration
 POST	/login	User login
@@ -125,13 +119,11 @@ Base URL: http://localhost:5000
 
 🔐 Environment Variables
 Create a .env file in back-end/:
-
-env
-Copy
-Edit
+```bash
 MONGODB_URI=your_mongodb_connection_string
 PORT=5000
-🖼️ Screenshots
+```
+###🖼️ Screenshots
 
 ![Screenshot 2025-06-07 220649](https://github.com/user-attachments/assets/533e8ebb-ecca-48b6-8277-fa1fd73f6c83)
 ![Screenshot 2025-06-07 220707](https://github.com/user-attachments/assets/478e6c2a-8969-4c72-94b3-e1f42c2bb7ae)
