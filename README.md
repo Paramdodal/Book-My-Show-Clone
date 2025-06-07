@@ -79,8 +79,10 @@ Edit
 
 #### 1. Clone the Repository
 
+```bash
 git clone https://github.com/Paramdodal/Book-My-Show-Clone.git
 cd Book-My-Show-Clone
+```
 2. Setup Backend
 bash
 Copy
